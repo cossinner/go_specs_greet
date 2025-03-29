@@ -1,4 +1,4 @@
-module github.com/quii/go-specs-greet
+module github.com/cossinner/go_specs_greet
 
 go 1.23.2
 
